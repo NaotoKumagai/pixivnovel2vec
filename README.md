@@ -8,20 +8,20 @@ pixiv小説で機械学習するためのスクリプト置き場
 
 ### doc2vec
 
-* [学習経過](doc2vec.ipynb)
-	* [テストラン (サブセットデータ)](doc2vec-train-subset.ipynb)
-	* [テストラン (1回反復)](doc2vec-train-subset.ipynb)
-* [学習済みモデルの使用](doc2vec-play-with-model.ipynb)
+* [学習経過](./doc2vec-train.ipynb)
+	* [テストラン (サブセットデータ)](./doc2vec-train-subset.ipynb)
+	* [テストラン (1回反復)](./doc2vec-train-subset.ipynb)
+* [学習済みモデルの使用](./doc2vec-play-with-model.ipynb)
 
 #### SVMによるタグ分類
 
-* [学習経過・および結果評価](svm-all.ipynb)
-	* [テストラン (「R-18」タグ)](svm-r18.ipynb)
-	* [テストラン (「腐向け」タグ)](svm-fumuke.ipynb)
+* [学習経過・および結果評価](./svm-all.ipynb)
+	* [テストラン (「R-18」タグ)](./svm-r18.ipynb)
+	* [テストラン (「腐向け」タグ)](./svm-fumuke.ipynb)
 
 #### K-means法による教師なし分類
 
-* [学習経過・および結果評価](kmeans.ipynb)
+* [学習経過・および結果評価](./kmeans.ipynb)
 
 ## ライセンス
 
