@@ -2,6 +2,10 @@
 
 pixiv小説で機械学習するためのスクリプト置き場
 
+## モデルデータ配布
+
+[Releaseページ](https://github.com/pixiv/pixivnovel2vec/releases)にて、学習済みモデルデータの配布を行っています。
+
 ## スクリプト一覧
 
 詳細はブログ記事をご参照ください。
